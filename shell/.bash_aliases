@@ -2,6 +2,9 @@
 
 alias hostfile="sudo nano /etc/hosts"
 alias clshis="history -c && history -w"
+alias obrc="sudo nano /home/$USER/.bashrc"
+alias obrcf="sudo nano /home/$USER/.bash_functions"
+alias obrca="sudo nano /home/$USER/.bash_aliases"
 
 # PHP
 
